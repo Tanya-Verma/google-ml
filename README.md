@@ -1,6 +1,7 @@
 # google-ml
 
 The site contains all the essential files for Ml resources which are provided by google skill boost program!
+Technologies used for making this : scss, javascript, react.
 The site contains
 <ul>
   <li>Aggregate courses for Ml by Google cloud courses</li>
