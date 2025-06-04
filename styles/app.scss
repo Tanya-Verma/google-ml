@@ -19,6 +19,7 @@ root.render(
 
 
 @import"statics/variables.scss";
+@import"headers/header.scss";
 
 
 *{
@@ -37,5 +38,10 @@ a{
 body{
     background: color $color1;
     overflow-x: hidden;
-    
+
+}
+
+.disableBtn{
+    background-color: blanchedalmond;
+    cursor: not-allowed;
 }

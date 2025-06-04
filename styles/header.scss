@@ -1,0 +1,48 @@
+nav{
+    width: 100px;
+    height:100px;
+    background-color: #f0f0f0;
+    position: sticky;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    top: 0;
+    z-index: 60;
+
+}
+
+>h2{
+    font-size: 2rem;
+
+}
+
+>div{
+    display: flex;
+    align-items: center;
+    gap:2rem;
+}
+
+a{
+    color:$color6;
+    font-weight:500;
+    transition:all 0.3s ease-in-out;
+    letter-spacing: 0.1rem;
+    $hover
+    &:hover{
+        color: $color3;    }
+}
+
+>a>button{
+    border:1px solid $color7;
+    padding: 0.5rem 2rem;
+    background-color: color1;
+    cursor:pointer;
+    letter-spacing:1px;
+    font: weight 500px;
+    transition: all 0.3s;
+    $hover{
+        background-color: $color7;
+        color: $color3;
+    }
+}
+
