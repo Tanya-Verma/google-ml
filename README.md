@@ -15,5 +15,25 @@
 *Clean and responsive UI for smooth navigation.*
 
 
+🛠️ ***Technologies Used***
+`React.js – Frontend framework`
+`JavaScript – Logic & interactivity`
+`SCSS – Styling and design`
+
+google-ml/
+│── public/
+│── src/
+│   ├── components/
+│   ├── pages/
+│   ├── styles/
+│   ├── App.js
+│   └── index.js
+│── package.json
+│── README.md
+
+
+
+
+
 
 
