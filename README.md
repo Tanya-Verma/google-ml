@@ -1,14 +1,19 @@
-# google-ml
+**🌐 Google ML Resources Hub**
 
-The site contains all the essential files for Ml resources which are provided by google skill boost program!
-Technologies used for making this : scss, javascript, react.
-<br>
-The site contains
-<ul>
-  <li>Aggregate courses for Ml by Google cloud courses</li>
-  <li>Consise materials for Generative Ai by Google cloud courses</li>
-  <li>Lots of resouces on Gen Ai provided by Google skill boost Programm</li>
-</ul>
+*A curated platform that brings together Machine Learning and Generative AI resources from the Google Skill Boost Program in one place.*
 
-<br>
-<h1 style="text font: Open sans";><i>By Tanya Verma</i></h1>
+`This project is designed to help learners easily access structured courses, concise study material, and valuable resources without searching across multiple platforms.`
+
+🚀 Features
+📚 `Aggregated ML Courses`
+*Access a collection of Machine Learning courses from Google Cloud.*
+🤖 `Generative AI Materials`
+*Simplified and concise notes for better understanding of Generative AI concepts.*
+📦 `Resource Collection`
+*A wide range of learning materials provided by the Google Skill Boost Program.*
+⚡ `User-Friendly Interface`
+*Clean and responsive UI for smooth navigation.*
+
+
+
+
