@@ -42,6 +42,19 @@ google-ml/<br>
 *Help beginners and intermediate learners build a strong foundation*
 
 
+---
+```md
+## 🌸 The Mind Behind This
+
+Not just a project, but a step in a journey.
+
+Hi, I’m **Tanya Verma**
+someone who believes that learning should feel less overwhelming and more empowering.  
+This platform reflects my passion for **Machine Learning, Generative AI, and making knowledge accessible**.
+
+Every line of code here is built with curiosity, resilience, and the desire to grow.
+
+
 
 
 
