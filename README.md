@@ -35,11 +35,11 @@ google-ml/<br>
 
 🎯 Purpose
 
-*The main goal of this project is to:
+*The main goal of this project is to:*
 
-Simplify access to ML and Gen AI learning resources
-Save time by organizing content in one place
-Help beginners and intermediate learners build a strong foundation*
+*Simplify access to ML and Gen AI learning resources*
+*Save time by organizing content in one place*
+*Help beginners and intermediate learners build a strong foundation*
 
 
 
