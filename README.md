@@ -20,16 +20,16 @@
 `JavaScript – Logic & interactivity`<br>
 `SCSS – Styling and design`<br>
 
-`google-ml/`<br>
-│── `public/`<br>
-│── src/<br>
-│   ├── components/<br>
-│   ├── pages/<br>
-│   ├── styles/<br>
-│   ├── App.js<br>
-│   └── index.js<br>
-│── package.json<br>
-│── README.md<br>
+*google-ml/*<br>
+│── *public/*<br>
+│── *src/*<br>
+│   ├── *components/*<br>
+│   ├── *pages/*<br>
+│   ├── *styles/*<br>
+│   ├── *App.js*<br>
+│   └── *index.js*<br>
+│── *package.json*<br>
+│── *README.md*<br>
 
 
 
