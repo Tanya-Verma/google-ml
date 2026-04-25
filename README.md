@@ -20,8 +20,8 @@
 `JavaScript – Logic & interactivity`<br>
 `SCSS – Styling and design`<br>
 
-google-ml/<br>
-│── public/<br>
+`google-ml/`<br>
+│── `public/`<br>
 │── src/<br>
 │   ├── components/<br>
 │   ├── pages/<br>
