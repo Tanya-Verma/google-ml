@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0f172a;
+  color: white;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.hero {
+  padding: 50px 20px;
+  background: linear-gradient(135deg, #1e293b, #0f172a);
+}
+
+.grid {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.genai {
+  margin-top: 40px;
+  padding: 20px;
+  background: #1e293b;
+  border-radius: 10px;
+}
