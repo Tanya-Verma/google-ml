@@ -1,0 +1,10 @@
+{
+  "doctype": "html",
+  "lang": "en",
+  "title": "Google ML Resources Hub",
+  "meta": {
+    "charset": "utf-8",
+    "viewport": "width=device-width, initial-scale=1"
+  },
+  "rootElementId": "root"
+}
