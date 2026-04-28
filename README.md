@@ -6,7 +6,7 @@
 
 🚀 ***Features***<br>
 📚 `Aggregated ML Courses`<br>
-*Access a collection of Machine Learning courses from Google Cloud.*<br?
+*Access a collection of Machine Learning courses from Google Cloud.*<br>
 🤖 `Generative AI Materials`<br>
 *Simplified and concise notes for better understanding of Generative AI concepts.*<br>
 📦 `Resource Collection`<br>
