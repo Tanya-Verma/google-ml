@@ -4,7 +4,7 @@
 
 *This project is designed to help learners easily access structured courses, concise study material, and valuable resources without searching across multiple platforms.*
 
-🚀 *Features*
+🚀 ***Features***
 📚 `Aggregated ML Courses`
 *Access a collection of Machine Learning courses from Google Cloud.*
 🤖 `Generative AI Materials`
