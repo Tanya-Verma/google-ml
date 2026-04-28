@@ -4,13 +4,13 @@
 
 *This project is designed to help learners easily access structured courses, concise study material, and valuable resources without searching across multiple platforms.*
 
-🚀 ***Features***
+🚀 ***Features***<br>
 📚 `Aggregated ML Courses`
-*Access a collection of Machine Learning courses from Google Cloud.*
+*Access a collection of Machine Learning courses from Google Cloud.*<br?
 🤖 `Generative AI Materials`
-*Simplified and concise notes for better understanding of Generative AI concepts.*
+*Simplified and concise notes for better understanding of Generative AI concepts.*<br>
 📦 `Resource Collection`
-*A wide range of learning materials provided by the Google Skill Boost Program.*
+*A wide range of learning materials provided by the Google Skill Boost Program.*<br>
 ⚡ `User-Friendly Interface`
 *Clean and responsive UI for smooth navigation.*
 
