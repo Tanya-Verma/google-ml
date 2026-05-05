@@ -44,6 +44,7 @@
 *Simplify access to ML and Gen AI learning resources*
 *Save time by organizing content in one place*
 *Help beginners and intermediate learners build a strong foundation*
+*Make a hub for the rest of the resources issued by Google*
 
 
 ---
