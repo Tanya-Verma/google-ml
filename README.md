@@ -1,25 +1,25 @@
-**🌐 Google ML Resources Hub**
+**Google ML Resources Hub**
 
 *A curated platform that brings together Machine Learning and Generative AI resources from the Google Skill Boost Program in one place.*
 
 *This project is designed to help learners easily access structured courses, concise study material, and valuable resources without searching across multiple platforms.*
 
-🚀 ***Features***<br>
+ ***Features***<br>
 
-📚 `Aggregated ML Courses`<br>
+ `Aggregated ML Courses`<br>
 *Access a collection of Machine Learning courses from Google Cloud.*<br>
 
-🤖 `Generative AI Materials`<br>
+`Generative AI Materials`<br>
 *Simplified and concise notes for better understanding of Generative AI concepts.*<br>
 
-📦 `Resource Collection`<br>
+ `Resource Collection`<br>
 *A wide range of learning materials provided by the Google Skill Boost Program.*<br>
 
-⚡ `User-Friendly Interface`<br>
+`User-Friendly Interface`<br>
 *Clean and responsive UI for smooth navigation.*<br>
 
 
-🛠️ ***Technologies Used***<br>
+***Technologies Used***<br>
 `React.js – Frontend framework`<br>
 `JavaScript – Logic & interactivity`<br>
 `SCSS – Styling and design`<br>
@@ -37,7 +37,7 @@
 
 
 
-🎯 `Purpose`
+`Purpose`
 
 *The main goal of this project is to:*
 
@@ -49,7 +49,7 @@
 
 ---
 ```md
-## 🌸 The Mind Behind This
+##  The Mind Behind This
 
 Not just a project, but a step in a journey.
 
