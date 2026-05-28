@@ -22,7 +22,7 @@
 ***Technologies Used***<br>
 `React.js – Frontend framework`<br>
 `JavaScript – Logic & interactivity`<br>
-`SCSS – Styling and design`<br>
+`SCSS – Styling and design and taste`<br>
 
 *google-ml/*<br>
 │── *public/*<br>
