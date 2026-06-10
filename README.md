@@ -2,7 +2,7 @@
 
 *A curated platform that brings together Machine Learning and Generative AI resources from the Google Skill Boost Program in one place.*
 
-*This project is designed to help Ml engineers easily access structured courses, concise study material, and valuable resources without searching across multiple platforms.*
+*This project is designed to help Ml engineers easily access structured courses, concise study material, and valuable resources without searching across multiple platforms. ALL THE PRETY SITES WALKS LIKE THIS*
 
  ***Features***<br>
 
